@@ -1,0 +1,2 @@
+ps2exe \\file\Support\Scripts\Thread\Thread-Master-Script\scripts\thread-deployment.ps1 \\file\Support\Scripts\Thread\Thread-Resources\releases\latest\thread-deployment.exe
+Compress-Archive -Path "\\file\Support\Scripts\Thread\Thread-Resources\releases\latest\thread-deployment.exe" -DestinationPath "\\file\Support\Scripts\Thread\Thread-Resources\releases\latest\thread-deployment.zip"
